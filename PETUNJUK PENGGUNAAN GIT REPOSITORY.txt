@@ -1,0 +1,12 @@
+1. Arahkan lokasi path cmd ke folder git akademik cd "D:\AKADEMIK\TA 2016 - 2017\GIT"
+2. "git add ."
+3. "git status"
+4. "git commit -m "Update file mahasiswa" " 
+5. "git push -u github master"
+
+
+#Download / Clone repository ke PC yg lain / repo yg lama keformat
+1. "git clone https://github.com/ilyasdoank/AKADEMIK.git"
+
+#Update Repo lokal dari PC yg lain
+1. "git pull"
